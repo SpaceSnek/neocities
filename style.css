@@ -1,0 +1,37 @@
+body {
+    background-color: #ADD8E6;
+}
+
+.shart {
+    margin: 0px;
+}
+
+.main-left-window {
+    height: 625px;
+    width: 625px;
+    border-radius: 10px;
+    background-color: #8eb1bd;
+    margin: 50px auto auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.main-left-content-container {
+    height: 600px;
+    width: 600px;
+    border-radius: 10px;
+    background-color:blanchedalmond;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.main-left-content-content {
+    height: 500px;
+    width: 500px;
+    border-style: dotted; 
+    border-radius: 10px;
+    background-color:blanchedalmond;
+}
+
