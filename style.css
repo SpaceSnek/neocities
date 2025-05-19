@@ -11,10 +11,9 @@ body {
 .da-whole-thing{
     height: 625px;
     width: 875px;
-    position: absolute;
-    left: 50%;
-    top: 30%;
-    -webkit-transform: translate(-50%, -50%);
+    padding-top: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 /*---------------------------------------*/
 
