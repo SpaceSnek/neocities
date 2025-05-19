@@ -1,12 +1,18 @@
 body {
     background-color: #ADD8E6;
     font-family: "Comic Neue";
+    background-image: url("Assets/Footer.png");
+    background-repeat: no-repeat;
+    background-position-y: 160%;
 }
 
+/*THE guy :)*/
 .shart {
     margin: 0px;
     float:right;
 }
+/*---------------------------------------*/
+
 /*The whole thing*/
 .da-whole-thing{
     height: 625px;
